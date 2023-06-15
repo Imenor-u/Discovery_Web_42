@@ -13,12 +13,12 @@ This bootcamp was designed to give participants a strong foundation in web devel
 
 ## **PARTS OF THE PROJECT 🧩**
 
- -Cellule0: Shell ❌
+ - Cellule0 ❌
  
- -Cellule1: HTML and CSS ✔️
+ - Cellule1 ✔️
  
- -Cellule2: HTML, CSS and (JavaScript) ✔️
+ - Cellule2 ✔️
  
- -Cellule3: HTML, CSS and JavaScript ➖
+ - Cellule3 ➖
  
- -Cellule4: Rush ❌
+ - Cellule4 ❌
