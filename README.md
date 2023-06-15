@@ -1,7 +1,7 @@
 # Discovery_Web_42
 Pisicine Discovery Web from 42 Málaga
 
-⏰ Programming Time:5 days.
+⏰ Programming Time: 5 days.
 
 This is a web development bootcamp that took place at the 42 Málaga campus.
 
