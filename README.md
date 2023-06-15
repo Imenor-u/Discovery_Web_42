@@ -9,8 +9,13 @@ During the bootcamp, participants worked on the fundamentals of Shell, HTML5, CS
 This bootcamp was designed to give participants a strong foundation in web development, with an emphasis on practical, hands-on learning. Through a series of coding challenges and projects, participants gained experience working with the essential tools and technologies used in modern web development.
 
 Parts of the project 🧩
+
  Cellule0: Shell ❌
+ 
  Cellule1: HTML and CSS ✔️
+ 
  Cellule2: HTML, CSS and (JavaScript) ✔️
+ 
  Cellule3: HTML, CSS and JavaScript ➖
+ 
  Cellule4: Rush ❌
