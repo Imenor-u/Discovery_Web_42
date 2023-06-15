@@ -3,7 +3,7 @@
 
 Pisicine Discovery Web from 42 Málaga
 
-⏰ Programming Time: 5 days.
+**⏰ Programming Time: 5 days.**
 
 During the bootcamp, participants worked on the fundamentals of Shell, HTML5, CSS3, and Javascript. In the final project, participants had to use Bootstrap to create a fully functional website.
 
@@ -12,8 +12,13 @@ This bootcamp was designed to give participants a strong foundation in web devel
 
 
 **PARTS OF THE PROJECT 🧩**
+
  -Cellule0: Shell ❌
+ 
  -Cellule1: HTML and CSS ✔️
+ 
  -Cellule2: HTML, CSS and (JavaScript) ✔️
+ 
  -Cellule3: HTML, CSS and JavaScript ➖
+ 
  -Cellule4: Rush ❌
