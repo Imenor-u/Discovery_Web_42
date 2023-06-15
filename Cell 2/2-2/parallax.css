@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    font-family: serif;
+    }
+    
+    
+    .container{
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: auto;
+    perspective: 3px;
+    }
+    
+    
+    section{
+    background-size: cover;
+    color: white;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    
+    .parallax-bg{
+    background-position: center center;
+    transform: translateZ(-0.5px) scale(2);
+    background-size: cover;
+    z-index: -1;
+    height: 50vh;
+    }
+    
+    
+    .parallax-content{
+    z-index: -1;
+    transform: translateY(-25vh) translateZ(0px) scale(1);
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    }
+    
+    
+    .no-parallax-section{
+        height: 50vh;
+    }
+    
+    
+    .no-parallax-content{
+        text-align: center;
+        padding: 30px;
+    }
+    
+    
+    .bg-1{
+    background: rgb(0,0,0);
+    }
+    .bg-2{
+    background: rgb(0,0,0);
+    }
