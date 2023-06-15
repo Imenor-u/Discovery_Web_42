@@ -13,24 +13,24 @@ This bootcamp was designed to give participants a strong foundation in web devel
 
 ## **PARTS OF THE PROJECT 🧩**
 
- - Cellule0 ❌
+ - [ ] Cellule0 
  
- - Cellule1 ✔️
+ - [x] Cellule1 
+
+ - [x] Cellule2 
  
- - Cellule2 ✔️
+ - [x] Cellule3 
  
- - Cellule3 ➖
- 
- - Cellule4 ❌
+ - [ ] Cellule4 
 
    ## **Languages 👅**
    
-- [ ] Shell
+- Shell
 
-- [x] HTML
+- HTML
 
-- [x] CSS
+- CSS
 
-- [x] JavaScript
+- JavaScript
 
-- [ ] jQuery
+- jQuery
