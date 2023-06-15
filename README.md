@@ -23,7 +23,7 @@ This bootcamp was designed to give participants a strong foundation in web devel
  
  - [ ] Cellule4 
 
-   ## **Languages 👅**
+## **Languages 👅**
    
 - Shell
 
