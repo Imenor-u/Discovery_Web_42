@@ -25,12 +25,12 @@ This bootcamp was designed to give participants a strong foundation in web devel
 
    ## **Languages 👅**
    
-[ ] Shell
+- [ ] Shell
 
-[x] HTML
+- [x] HTML
 
-[x] CSS
+- [x] CSS
 
-[x] JavaScript
+- [x] JavaScript
 
-[ ] jQuery
+- [ ] jQuery
