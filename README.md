@@ -22,3 +22,15 @@ This bootcamp was designed to give participants a strong foundation in web devel
  - Cellule3 ➖
  
  - Cellule4 ❌
+
+   ## **Languages 👅**
+   
+[ ] Shell
+
+[x] HTML
+
+[x] CSS
+
+[x] JavaScript
+
+[ ] jQuery
